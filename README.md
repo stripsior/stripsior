@@ -2,7 +2,7 @@
 
 # Hi, I'm Jakub Krzyżanowski 👋
 
-**Working @ syntetiq.pl**
+**Working @ struxa.cloud**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40stripsior-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/stripsior) [![YouTube](https://www.shieldcn.dev/badge/YouTube-%40strikxior-FF0000.svg?logo=youtube&variant=branded&size=sm)](https://www.youtube.com/@strikxior) [![Twitch](https://www.shieldcn.dev/badge/Twitch-%40stripsior420-9146FF.svg?logo=twitch&variant=branded&size=sm)](https://www.twitch.tv/stripsior420)
 
